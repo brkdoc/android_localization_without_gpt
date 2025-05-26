@@ -14,7 +14,10 @@ def convert_to_dict(multilingual_text):
         "ES": "es",
         "DE": "de",
         "FR": "fr",
-        "JA": "ja"
+        "JA": "ja",
+        "AR": "ar",
+        "HE": "he",
+        "IW": "iw"
     }
 
     # Loop over each line to populate the dictionary
